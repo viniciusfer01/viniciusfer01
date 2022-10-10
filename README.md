@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @viniciusfer01 a.k.a. Vinicius
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Clojure
