@@ -1,5 +1,6 @@
 # About me
-- 👋 Hi, I’m @viniciusfer01 a.k.a. Vinicius
+- 👋 Hi, I’m Vinícius Fernandes a.k.a. Vini
+- 🎓 I'm a Computer Engineering undergraduate
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Clojure
 - 💞️ I’m looking to collaborate on ReactJS projects
